@@ -1,0 +1,16 @@
+﻿{
+  "Name": "UAMNo_InputBox",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "SH_8YXCb7Ea_zj5RRXI1jQ",
+  "Reference": "VZEsIJcil06aYMKPiHu2fw/SH_8YXCb7Ea_zj5RRXI1jQ",
+  "ParentRef": "VZEsIJcil06aYMKPiHu2fw/xGENJMflk0q6guIY4W5wpA",
+  "Created": "2024-12-12T11:37:37.0034146Z",
+  "Updated": "2024-12-12T11:37:48.4418196Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

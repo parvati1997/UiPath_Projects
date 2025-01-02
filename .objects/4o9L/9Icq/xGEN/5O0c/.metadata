@@ -1,0 +1,16 @@
+﻿{
+  "Name": "CaptchaText",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "5O0cCPgpsESqqEfbcfLPlA",
+  "Reference": "VZEsIJcil06aYMKPiHu2fw/5O0cCPgpsESqqEfbcfLPlA",
+  "ParentRef": "VZEsIJcil06aYMKPiHu2fw/xGENJMflk0q6guIY4W5wpA",
+  "Created": "2024-12-12T11:38:01.0342286Z",
+  "Updated": "2024-12-12T11:38:16.8971418Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

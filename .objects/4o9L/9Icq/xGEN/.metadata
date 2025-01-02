@@ -1,0 +1,15 @@
+﻿{
+  "Name": "MainScreen",
+  "Type": "Screen",
+  "Id": "xGENJMflk0q6guIY4W5wpA",
+  "Reference": "VZEsIJcil06aYMKPiHu2fw/xGENJMflk0q6guIY4W5wpA",
+  "ParentRef": "VZEsIJcil06aYMKPiHu2fw/9IcqOOwmwkaawPTJJMCUlw",
+  "Created": "2024-12-12T11:35:42.0650193Z",
+  "Updated": "2024-12-12T11:35:49.8588238Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

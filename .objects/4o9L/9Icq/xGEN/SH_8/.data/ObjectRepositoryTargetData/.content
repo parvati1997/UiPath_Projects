@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="stNaYnpN706f3Qe86aCnnA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="udyamregistration.gov.in/UA/UA_VerifyUAM.aspx" CVScreenId="1e344dbf-9f2c-4904-b6a4-3c791b3fbe97" CvElementArea="327, 422, 458, 43" CvType="InputBox" DesignTimeRectangle="329, 423, 454, 42" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' class='txtbox' placeholder='Enter 12 digit UAM No.' aaname='' /&gt;" Guid="ee5eb96b-c475-4829-a457-81eb25e87014" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Udyog Aadhaar(Official Website for MSME Registration, Ministry of Micro, Small and Medium Enterprises)' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3af8175014b79d20d798c822d45a1642.png" xmlns="">0O22EkeylKkSRbEBRGLRGnw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
